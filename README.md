@@ -1,1 +1,2 @@
 # odin-recipes
+This project is all about recipes. In this project I will use all that html stuff I have learnt from the odin foundation html part. I will use html boilerplate, text element, link and img and many more.
